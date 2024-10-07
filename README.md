@@ -1,6 +1,9 @@
 # Image Background Removal Script
 
-This Python script removes the white background from an image, making it transparent. It utilizes the Python Imaging Library (PIL), specifically the PIL.Image module, to process the image.
+Simples Python script removes the white background from an image, making it transparent. It utilizes the Python Imaging Library (PIL), specifically the PIL.Image module, to process the image.
+
+Good for making signature with white background transparent, without uploading the signature to the cloud.
+
 ### Features
 
 - Converts the input image into an RGBA format to support transparency.
